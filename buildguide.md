@@ -19,7 +19,8 @@ You will also need a soldering iron and solder.
 | Name | Pieces/Units | Comments |
 |:-|:-|:-|
 | Reset Switch - 6mm, 2 pin | 1 | [Example](https://smile.amazon.com/gp/product/B07WF76VHT/) |
-| MCU Sockets | 1 set of 24 pins | Can be millmax, I use [these](https://smile.amazon.com/gp/product/B07BS126FK/) (sacrifices elegance but works great) |
+| MCU Sockets | 1 set of 24 pins | Can be millmax; I instead use [these](https://smile.amazon.com/gp/product/B07BS126FK/) (sacrifices elegance but works great) |
+| Bumpons/Feet | 4 | If socketing MCU, use [big bumpons like these](https://smile.amazon.com/gp/product/B07PDJ7T71/). Else, [these small ones could work](https://smile.amazon.com/dp/B06XCNM69B/). |
 
 Useful tools for soldering include tweezers and helping hands.
 
