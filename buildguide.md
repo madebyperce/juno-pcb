@@ -48,4 +48,8 @@ Insert the switch and solder the legs.
 
 Fit the MCU to the outline on the back of the board, with the components facing out (i.e. visible). Solder and clip the legs.
 
+### Feet
+
+Attach four feet on the back.
+
 ## Firmware
