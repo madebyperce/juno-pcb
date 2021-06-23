@@ -36,14 +36,16 @@ Insert the reset button into its dedicated cutout, with the button on the backsi
 
 ### Sockets for the MCU (Optional)
 
+I find it helpful to stick the legs into the side of the MCU to measure how many pins I need (rather than counting). I like to gently push in one direction and then the opposite in order to achieve a clean break. 
+
+Then, I insert the male pins into the female sockets - firm pressure is needed to make the pins click into each other tightly.
+
 ### Switch
+
+Insert the switch and solder the legs.
 
 ### MCU
 
-Fit the MCU to the outline on the back of the board, with the components facing out (i.e. visible).
+Fit the MCU to the outline on the back of the board, with the components facing out (i.e. visible). Solder and clip the legs.
 
 ## Firmware
-
-## Troubleshooting/FAQ
-
-TBD
