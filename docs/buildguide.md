@@ -30,28 +30,52 @@ Bend both the legs of the diode sharpely against its body. Before mounting it on
 
 Solder the legs from the back side and clip the extra lengths off.
 
-![IMG_7686](/photos/IMG_7686.jpeg)![IMG_7687](/photos/IMG_7687.jpeg)
+![IMG_7686](https://raw.githubusercontent.com/na-che-x/juno-pcb/main/docs/photos/IMG_7686.jpeg)
+
+![IMG_7687](https://raw.githubusercontent.com/na-che-x/juno-pcb/main/docs/photos/IMG_7687.jpeg)
 
 ### Reset Switch (Optional)
 
 Insert the reset button into its dedicated cutout, with the button on the backside. Solder and clip the excess legs.
 
+![](https://raw.githubusercontent.com/na-che-x/juno-pcb/main/docs/photos/IMG_7689.jpeg)
+
 ### Sockets for the MCU (Optional)
 
 I find it helpful to stick the legs into the side of the MCU to measure how many pins I need (rather than counting). I like to gently push in one direction and then the opposite in order to achieve a clean break.
 
+![](https://raw.githubusercontent.com/na-che-x/juno-pcb/main/docs/photos/IMG_7691.jpeg)
+
 Then, I insert the male pins into the female sockets - firm pressure is needed to make the pins click into each other tightly.
+
+![](https://raw.githubusercontent.com/na-che-x/juno-pcb/main/docs/photos/IMG_7693.jpeg)
+
+![](https://raw.githubusercontent.com/na-che-x/juno-pcb/main/docs/photos/IMG_7694.jpeg)
 
 ### Switch
 
 Insert the switch and solder the legs.
 
+![](https://raw.githubusercontent.com/na-che-x/juno-pcb/main/docs/photos/IMG_7703.jpeg)
+
+![](https://raw.githubusercontent.com/na-che-x/juno-pcb/main/docs/photos/IMG_7704.jpeg)
+
 ### MCU
 
 Fit the MCU to the outline on the back of the board, with the components facing out (i.e. visible). Solder and clip the legs.
 
+![](https://raw.githubusercontent.com/na-che-x/juno-pcb/main/docs/photos/IMG_7706.jpeg)
+(Before pin legs have been clipped.)
 ### Feet
 
-Attach four feet on the back.
+Attach the four self-adhesive rubber feet on the back.
+
+![](https://raw.githubusercontent.com/na-che-x/juno-pcb/main/docs/photos/IMG_7708.jpeg)
+
+### Cleanup
+
+You can use rubbing alcohol and a q-tip, or toothbrush, to gently clean off the excess flux. This is the yellowy stuff that gets on the board from soldering.
 
 ## Firmware
+
+Firmware is [located here](firmware).
