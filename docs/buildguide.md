@@ -44,7 +44,7 @@ Insert the reset button into its dedicated cutout, with the button on the backsi
 
 I find it helpful to stick the legs into the side of the MCU to measure how many pins I need (rather than counting). I like to gently push in one direction and then the opposite in order to achieve a clean break.
 
-![](https://raw.githubusercontent.com/na-che-x/juno-pcb/main/docs/photos/IMG_7691.jpeg)
+![](https://raw.githubusercontent.com/na-che-x/juno-pcb/main/docs/photos/IMG_7691.jpeg =250x)
 
 Then, I insert the male pins into the female sockets - firm pressure is needed to make the pins click into each other tightly.
 
