@@ -85,7 +85,7 @@ Pop the keycap on, and we're done with the hardware!
 
 ## Firmware
 
-Firmware is [located here](firmware).
+Firmware is [located here](https://github.com/na-che-x/juno-pcb/tree/main/firmware).
 
 You will need to clone the firmware repo (option to do so manually using https://download-directory.github.io/) and build and flash the firmware using QMK CLI. Documentation on setting up QMK CLI (QMK MSYS) is here: https://beta.docs.qmk.fm/tutorial/newbs.
 
