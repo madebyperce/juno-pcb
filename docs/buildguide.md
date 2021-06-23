@@ -26,9 +26,11 @@ Useful tools for soldering include tweezers, a wire cutter, and helping hands.
 
 ## Let's get building!
 ### Diode
-Bend both the legs of the diode sharpely against its body. Before mounting it on the board, note the marking on the diode -- **diode direction matters**. The through-hole diode will have a black marking on one side, and that side should be closest to the square hole. Insert into its slot on the front side of the board. 
+Bend both the legs of the diode sharpely against its body. Before mounting it on the board, note the marking on the diode -- **diode direction matters**. The through-hole diode will have a black marking on one side, and that side should be closest to the square hole. Insert into its slot on the front side of the board.
 
 Solder the legs from the back side and clip the extra lengths off.
+
+![IMG_7686](/photos/IMG_7686.jpeg)![IMG_7687](/photos/IMG_7687.jpeg)
 
 ### Reset Switch (Optional)
 
@@ -36,7 +38,7 @@ Insert the reset button into its dedicated cutout, with the button on the backsi
 
 ### Sockets for the MCU (Optional)
 
-I find it helpful to stick the legs into the side of the MCU to measure how many pins I need (rather than counting). I like to gently push in one direction and then the opposite in order to achieve a clean break. 
+I find it helpful to stick the legs into the side of the MCU to measure how many pins I need (rather than counting). I like to gently push in one direction and then the opposite in order to achieve a clean break.
 
 Then, I insert the male pins into the female sockets - firm pressure is needed to make the pins click into each other tightly.
 
