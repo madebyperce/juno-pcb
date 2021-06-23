@@ -22,7 +22,7 @@ You will also need a soldering iron and solder.
 | MCU Sockets | 1 set of 24 pins | Can be millmax; I instead use [these](https://smile.amazon.com/gp/product/B07BS126FK/) (sacrifices elegance but works great) |
 | Bumpons/Feet | 4 | If socketing MCU, use [big bumpons like these](https://smile.amazon.com/gp/product/B07PDJ7T71/). Else, [these small ones could work](https://smile.amazon.com/dp/B06XCNM69B/). |
 
-Useful tools for soldering include tweezers and helping hands.
+Useful tools for soldering include tweezers, a wire cutter, and helping hands.
 
 ## Let's get building!
 ### Diode
@@ -30,9 +30,13 @@ Bend both the legs of the diode sharpely against its body. Before mounting it on
 
 Solder the legs from the back side and clip the extra lengths off.
 
-### Switch
+### Reset Switch (Optional)
 
-**Note: If you will be socketing your MCU**, solder the sockets first. If not, skip ahead to soldering the switch in.
+Insert the reset button into its dedicated cutout, with the button on the backside. Solder and clip the excess legs.
+
+### Sockets for the MCU (Optional)
+
+### Switch
 
 ### MCU
 
