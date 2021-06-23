@@ -1,8 +1,8 @@
-# Juno rev. 1
-### aka THE SNOOT BOOPER
-One key macropad made after a doggo I love
+# Juno rev. 1 (aka THE SNOOT BOOPER)
 
-Juno is a one-key macropad that can be configured using QMK. **The build guide is [here](https://github.com/na-che-x/juno-pcb/blob/main/docs/buildguide.md).**
+Juno is a one-key macropad that can be configured using QMK. 
+
+**The build guide is [located here](https://github.com/na-che-x/juno-pcb/blob/main/docs/buildguide.md).**
 
 I set up my macropad to output a random string from a predefined list of strings. Because, why not?
 
