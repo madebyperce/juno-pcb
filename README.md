@@ -10,7 +10,7 @@ I set up my macropad to output a random string from a predefined list of strings
 
 <img src="https://raw.githubusercontent.com/na-che-x/juno-pcb/main/docs/photos/IMG_7717.jpeg">
 
-<img src="https://raw.githubusercontent.com/na-che-x/juno-pcb/main/docs/photos/real-juno-pics/IMG_0875.jpeg">
+<img src="https://raw.githubusercontent.com/na-che-x/juno-pcb/main/docs/photos/real-juno-pics/IMG_0875.jpg">
 
 <img src="https://raw.githubusercontent.com/na-che-x/juno-pcb/main/docs/photos/IMG_7674.jpeg">
 
