@@ -16,7 +16,7 @@ I set up my macropad to output a random string from a predefined list of strings
 
 <img src="https://raw.githubusercontent.com/na-che-x/juno-pcb/main/docs/photos/IMG_7673.jpeg">
 
-## Photos of the muse that inspired it all
+## Photos of the muse who inspired it all
 
 <img src="https://raw.githubusercontent.com/na-che-x/juno-pcb/main/docs/photos/real-juno-pics/IMG_1954.jpeg">
 
